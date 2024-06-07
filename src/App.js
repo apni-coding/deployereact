@@ -6,7 +6,7 @@ import Contact from './components/Contact';
 import './App.css'
 const App = () => {
     return (
-        <Router>
+        <Router basename='/deployereact'>
             <div>
                 <nav>
                     <ul>
